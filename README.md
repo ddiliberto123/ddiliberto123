@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my Github Profile! 👋
 
 <!--
 **ddiliberto123/ddiliberto123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Currently studying pursuing a degree in software engineering at [Concordia University](https://www.concordia.ca)
+
+- Best way to contact me is through my [LinkedIn](https://www.linkedin.com/in/ddiliberto123/)
