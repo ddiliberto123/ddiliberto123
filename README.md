@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Currently studying pursuing a degree in software engineering at [Concordia University](https://www.concordia.ca)
+### Currently studying pursuing a degree in software engineering at [Concordia University](https://www.concordia.ca) while contributing to avionics development as part of Space Concordia's Rocketry Division
 
 - Best way to contact me is through my [LinkedIn](https://www.linkedin.com/in/ddiliberto123/)
