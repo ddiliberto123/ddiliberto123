@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 
 - 
 [![Daniel's GitHub stats](https://github-readme-stats-black-two-62.vercel.app/api?username=ddiliberto123)](https://github.com/ddiliberto123/github-readme-stats)
+![Top Langs](https://github-readme-stats-black-two-62.vercel.app/api/top-langs/?username=ddiliberto123&layout=compact)
