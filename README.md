@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 ### Currently studying pursuing a degree in software engineering at [Concordia University](https://www.concordia.ca) while contributing to avionics development as part of Space Concordia's Rocketry Division
 
 - Best way to contact me is through my [LinkedIn](https://www.linkedin.com/in/ddiliberto123/)
+
+- 
+[![Daniel's GitHub stats](https://github-readme-stats-black-two-62.vercel.app/api?username=ddiliberto123)](https://github.com/ddiliberto123/github-readme-stats)
