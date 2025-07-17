@@ -1,24 +1,40 @@
-## Welcome to my Github Profile! 👋
+<h1 align="center">Hi, I’m Daniel 👋</h1>
 
-<!--
-**ddiliberto123/ddiliberto123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: flex; flex-wrap: wrap; gap: 2rem;">
 
-Here are some ideas to get you started:
+  <!-- Left column -->
+  <div style="flex: 1; min-width: 240px;">
+  
+  #### 📫 Best way to connect with me  
+  [![LinkedIn][linkedin-shield]][linkedin-url]
+  
+  #### Here’s what I’m up to
+  - 🔭 I’m working on a system that automates my study workflow by producing custom quizzes from course materials.
+  - 🌱 I’m currently learning <img align="absmiddle" height="18" width="18" src="https://cdn.simpleicons.org/react/[#61DAFB]" alt="React"/> React and <img align="absmiddle" height="18" width="18" src="https://cdn.simpleicons.org/tailwindcss/[#06B6D4]" alt="Tailwind CSS"/> Tailwind CSS  
+  - 👯 I’m looking to collaborate on open‑source web apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </div>
 
-### Currently studying pursuing a degree in software engineering at [Concordia University](https://www.concordia.ca) while contributing to avionics development as part of Space Concordia's Rocketry Division
+  <!-- Right column -->
+  <div style="flex: 1; min-width: 240px;">
 
-- Best way to contact me is through my [LinkedIn](https://www.linkedin.com/in/ddiliberto123/)
+  #### 📊 GitHub Stats  
+  <a href="https://github.com/ddiliberto123">
+    <img src="https://github-readme-stats-mu-khaki-96.vercel.app/api?username=ddiliberto123&show_icons=true&theme=radical" alt="Daniel’s GitHub stats" />
+  </a>
 
-- 
-[![Daniel's GitHub stats](https://github-readme-stats-mu-khaki-96.vercel.app/api?username=ddiliberto123)](https://github.com/ddiliberto123/github-readme-stats)
-![Top Langs](https://github-readme-stats-mu-khaki-96.vercel.app/api/top-langs/?username=ddiliberto123&layout=compact)
+  <br/>
+
+  #### 🛠 Top Languages  
+  <a href="https://github.com/ddiliberto123">
+    <img src="https://github-readme-stats-mu-khaki-96.vercel.app/api/top-langs/?username=ddiliberto123&layout=compact&theme=radical" alt="Top languages" />
+  </a>
+
+  </div>
+
+</div>
+
+---
+
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge  
+[linkedin-url]:   https://www.linkedin.com/in/ddiliberto123/  
