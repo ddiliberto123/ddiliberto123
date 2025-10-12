@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I’m Daniel 👋</h1>
+<div align="ceenter">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Hi,%20I’m%20Daniel👋&fontSize=90" />
+</div>
 
 #### Heres a little about me 
 I’m currently a Software Engineering student at [Concordia University](https://www.concordia.ca) and a member of avionics with Space Concordia’s Rocketry Division.
@@ -11,49 +13,12 @@ I’m currently a Software Engineering student at [Concordia University](https:/
 - 🌱 I’m currently learning <img align="absmiddle" height="18" width="18" src="https://cdn.simpleicons.org/react/[#61DAFB]" alt="React"/> React and <img align="absmiddle" height="18" width="18" src="https://cdn.simpleicons.org/tailwindcss/[#06B6D4]" alt="Tailwind CSS"/> Tailwind CSS  
 - 👯 I’m looking to collaborate on open‑source web apps
 
-#### Leetcode
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://leetcard.jacoblin.cool/ddiliberto123?theme=dark&font=Darker%20Grotesque&ext=activity">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://leetcard.jacoblin.cool/ddiliberto123?theme=light&font=Darker%20Grotesque&ext=activity">
-  <img alt="LeetCode Stats"
-       src="https://leetcard.jacoblin.cool/ddiliberto123?theme=light&font=Darker%20Grotesque&ext=activity">
-</picture>
-
-#### My GitHub Stats  
-<a href="https://github.com/ddiliberto123">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats-mu-khaki-96.vercel.app/api?username=ddiliberto123&show_icons=true&theme=dark_radical">
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-stats-mu-khaki-96.vercel.app/api?username=ddiliberto123&show_icons=true&theme=radical">
-    <img alt="Daniel’s GitHub stats"
-         src="https://github-readme-stats-mu-khaki-96.vercel.app/api?username=ddiliberto123&show_icons=true&theme=radical">
-  </picture>
-</a>
-<br/>
-
-#### My Top Languages  
-<a href="https://github.com/ddiliberto123">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-mu-khaki-96.vercel.app/api/top-langs/?username=ddiliberto123&layout=compact&theme=dark"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats-mu-khaki-96.vercel.app/api/top-langs/?username=ddiliberto123&layout=compact&theme=radical"
-    />
-    <img
-      alt="Top languages"
-      src="https://github-readme-stats-mu-khaki-96.vercel.app/api/top-langs/?username=ddiliberto123&layout=compact&theme=radical"
-    />
-  </picture>
-</a>
-
----
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ddiliberto123&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ddiliberto123&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ddiliberto123&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge  
 [linkedin-url]:   https://www.linkedin.com/in/ddiliberto123/  
