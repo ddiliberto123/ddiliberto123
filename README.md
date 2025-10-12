@@ -13,19 +13,44 @@ I’m currently a Software Engineering student at [Concordia University](https:/
 
 #### Leetcode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ddiliberto123?theme=dark&font=Darker%20Grotesque&ext=activity#gh-dark-mode-only)](https://leetcode.com/ddiliberto123/)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ddiliberto123?theme=light&font=Darker%20Grotesque&ext=activity#gh-light-mode-only)](https://leetcode.com/ddiliberto123/)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://leetcard.jacoblin.cool/ddiliberto123?theme=dark&font=Darker%20Grotesque&ext=activity">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://leetcard.jacoblin.cool/ddiliberto123?theme=light&font=Darker%20Grotesque&ext=activity">
+  <img alt="LeetCode Stats"
+       src="https://leetcard.jacoblin.cool/ddiliberto123?theme=light&font=Darker%20Grotesque&ext=activity">
+</picture>
 
 #### My GitHub Stats  
 <a href="https://github.com/ddiliberto123">
-  <img src="https://github-readme-stats-mu-khaki-96.vercel.app/api?username=ddiliberto123&show_icons=true&theme=radical" alt="Daniel’s GitHub stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats-mu-khaki-96.vercel.app/api?username=ddiliberto123&show_icons=true&theme=dark_radical">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://github-readme-stats-mu-khaki-96.vercel.app/api?username=ddiliberto123&show_icons=true&theme=radical">
+    <img alt="Daniel’s GitHub stats"
+         src="https://github-readme-stats-mu-khaki-96.vercel.app/api?username=ddiliberto123&show_icons=true&theme=radical">
+  </picture>
 </a>
-
 <br/>
 
 #### My Top Languages  
 <a href="https://github.com/ddiliberto123">
-  <img src="https://github-readme-stats-mu-khaki-96.vercel.app/api/top-langs/?username=ddiliberto123&layout=compact&theme=radical" alt="Top languages" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-mu-khaki-96.vercel.app/api/top-langs/?username=ddiliberto123&layout=compact&theme=dark"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats-mu-khaki-96.vercel.app/api/top-langs/?username=ddiliberto123&layout=compact&theme=radical"
+    />
+    <img
+      alt="Top languages"
+      src="https://github-readme-stats-mu-khaki-96.vercel.app/api/top-langs/?username=ddiliberto123&layout=compact&theme=radical"
+    />
+  </picture>
 </a>
 
 ---
