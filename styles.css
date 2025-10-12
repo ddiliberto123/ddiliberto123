@@ -1,22 +1,14 @@
-:root,
-body,
-.card,
-.card .card-body,
-.card .card-header {
+/* Apply to everything */
+* {
+  background: transparent !important;
   background-color: transparent !important;
-  background: none !important;
   border: none !important;
   box-shadow: none !important;
 }
 
-.card svg {
+/* More specific targeting if there are wrappers */
+html, body, svg, g, rect, path, text, div {
   background: transparent !important;
-}
-
-/* If there are wrappers or container divs */
-.wrapper,
-.wrapper * {
-  background-color: transparent !important;
-  background: none !important;
-  border: none !important;
+  fill: currentColor !important;  /* Allow text to use the existing text color */
+  stroke: none !important;
 }
