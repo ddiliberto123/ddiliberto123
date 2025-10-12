@@ -1,0 +1,22 @@
+:root,
+body,
+.card,
+.card .card-body,
+.card .card-header {
+  background-color: transparent !important;
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.card svg {
+  background: transparent !important;
+}
+
+/* If there are wrappers or container divs */
+.wrapper,
+.wrapper * {
+  background-color: transparent !important;
+  background: none !important;
+  border: none !important;
+}
