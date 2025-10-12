@@ -2,16 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Hi,%20I’m%20Daniel👋&fontSize=90" />
 </div>
 
-#### Heres a little about me 
-I’m currently a Software Engineering student at [Concordia University](https://www.concordia.ca) and a member of avionics with Space Concordia’s Rocketry Division.
+#### 👋 About Me  
+Software Development Intern @ ARA Robotics • Software Engineering student @ [Concordia University](https://www.concordia.ca)
 
-#### 📫 Best way to connect with me  
+#### 🔧 Currently  
+Learning <img align="absmiddle" height="18" width="18" src="https://cdn.simpleicons.org/react/[#61DAFB]" alt="React"/> React and <img align="absmiddle" height="18" width="18" src="https://cdn.simpleicons.org/tailwindcss/[#06B6D4]" alt="Tailwind CSS"/> Tailwind CSS • Open to collaborate!
+
+
+#### 📫 Connect  
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-#### Here’s what I’m currently up to
-- 🔭 I’m working on a system that automates my study workflow by producing custom quizzes from course materials.
-- 🌱 I’m currently learning <img align="absmiddle" height="18" width="18" src="https://cdn.simpleicons.org/react/[#61DAFB]" alt="React"/> React and <img align="absmiddle" height="18" width="18" src="https://cdn.simpleicons.org/tailwindcss/[#06B6D4]" alt="Tailwind CSS"/> Tailwind CSS  
-- 👯 I’m looking to collaborate on open‑source web apps
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge  
+[linkedin-url]: https://www.linkedin.com/in/ddiliberto123/  
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ddiliberto123&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
