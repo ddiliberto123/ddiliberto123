@@ -11,14 +11,19 @@ I’m currently a Software Engineering student at [Concordia University](https:/
 - 🌱 I’m currently learning <img align="absmiddle" height="18" width="18" src="https://cdn.simpleicons.org/react/[#61DAFB]" alt="React"/> React and <img align="absmiddle" height="18" width="18" src="https://cdn.simpleicons.org/tailwindcss/[#06B6D4]" alt="Tailwind CSS"/> Tailwind CSS  
 - 👯 I’m looking to collaborate on open‑source web apps
 
-#### 📊 My GitHub Stats  
+#### Leetcode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ddiliberto123?theme=dark&font=Darker%20Grotesque&ext=activity#gh-dark-mode-only)](https://leetcode.com/ddiliberto123/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ddiliberto123?theme=light&font=Darker%20Grotesque&ext=activity#gh-light-mode-only)](https://leetcode.com/ddiliberto123/)
+
+#### My GitHub Stats  
 <a href="https://github.com/ddiliberto123">
   <img src="https://github-readme-stats-mu-khaki-96.vercel.app/api?username=ddiliberto123&show_icons=true&theme=radical" alt="Daniel’s GitHub stats" />
 </a>
 
 <br/>
 
-#### 🛠 My Top Languages  
+#### My Top Languages  
 <a href="https://github.com/ddiliberto123">
   <img src="https://github-readme-stats-mu-khaki-96.vercel.app/api/top-langs/?username=ddiliberto123&layout=compact&theme=radical" alt="Top languages" />
 </a>
