@@ -20,7 +20,6 @@ Learning <img align="absmiddle" height="18" width="18" src="https://cdn.simpleic
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ddiliberto123&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php,shaderlab,hlsl&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=ddiliberto123&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
-  <img src="https://leetcard.jacoblin.cool/ddiliberto123?theme=transparent&font=Darker%20Grotesque&border=0&sheets=https://github.com/ddiliberto123/ddiliberto123/blob/main/styles.css">
   <br>
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge  
