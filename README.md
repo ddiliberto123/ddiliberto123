@@ -3,7 +3,7 @@
 </div>
 
 #### 👋 About Me  
-Software Development Intern @ [ARA Robotics](https://www.ara-uas.com) • Software Engineering student @ [Concordia University](https://www.concordia.ca)
+Former Software Development Intern @ [ARA Robotics](https://www.ara-uas.com) • Software Engineering student @ [Concordia University](https://www.concordia.ca)
 
 #### 🔧 Currently  
 Learning <img align="absmiddle" height="18" width="18" src="https://cdn.simpleicons.org/react/[#61DAFB]" alt="React"/> React and <img align="absmiddle" height="18" width="18" src="https://cdn.simpleicons.org/tailwindcss/[#06B6D4]" alt="Tailwind CSS"/> Tailwind CSS • Open to collaborate!
