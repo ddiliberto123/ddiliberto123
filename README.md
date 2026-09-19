@@ -23,8 +23,8 @@ Learning <img align="absmiddle" height="18" width="18" src="https://cdn.simpleic
 [linkedin-url]: https://www.linkedin.com/in/ddiliberto123/  
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats-mu-khaki-96.vercel.app/api?username=ddiliberto123&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats-mu-khaki-96.vercel.app/api/top-langs/?username=ddiliberto123&layout=compact&hide_border=true&theme=github_dark_dimmed&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php,shaderlab,hlsl&exclude_repo=Pacman-AI">
+  <img height="50%" width="auto" src ="https://github-stats-extended.vercel.app/api?username=ddiliberto123&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-stats-extended.vercel.app/api/top-langs/?username=ddiliberto123&layout=compact&hide_border=true&theme=github_dark_dimmed&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php,shaderlab,hlsl&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=ddiliberto123&theme=github_dark_dimmed&hide_border=true&background=FFFFFF00">
   <br>
   <br>
